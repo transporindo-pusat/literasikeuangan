@@ -1,0 +1,557 @@
+[
+    {
+        "title": "Anatomi Laporan Keuangan",
+        "images": [
+            {
+                "url": "assets/1/0.jpg",
+                "description": "Anatomi Laporan Keuangan"
+            },
+            {
+                "url": "assets/1/1.jpg",
+                "description": "(Expanded) Accounting Equation"
+            },
+            {
+                "url": "assets/1/2.jpg",
+                "description": "Laporan Keuangan Isinya Apa Saja?"
+            },
+            {
+                "url": "assets/1/3.jpg",
+                "description": "Anatomi Laporan Laba Rugi"
+            },
+            {
+                "url": "assets/1/4.jpg",
+                "description": "Anatomi Neraca"
+            },
+            {
+                "url": "assets/1/5.jpg",
+                "description": "Anatomi Laporan Arus Kas"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Analisis SWOT",
+        "images": [
+            {
+                "url": "assets/2/0.jpg",
+                "description": "SWOT analysis"
+            },
+            {
+                "url": "assets/2/1.jpg",
+                "description": "Strengths (Kekuatan)"
+            },
+            {
+                "url": "assets/2/2.jpg",
+                "description": "Weaknesses (Kelemahan)"
+            },
+            {
+                "url": "assets/2/3.jpg",
+                "description": "Opportunities (Peluang)"
+            },
+            {
+                "url": "assets/2/4.jpg",
+                "description": "Threats (Ancaman)"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Operating Cash Flow",
+        "images": [
+            {
+                "url": "assets/3/0.jpg",
+                "description": "Memperbaiki operating cash flow"
+            },
+            {
+                "url": "assets/3/1.jpg",
+                "description": "Memahami Cash Flow"
+            },
+            {
+                "url": "assets/3/2.jpg",
+                "description": "Seberapa cepat uang berputar"
+            },
+            {
+                "url": "assets/3/3.jpg",
+                "description": "Dari penjualan sampai ke laba"
+            },
+            {
+                "url": "assets/3/4.jpg",
+                "description": "Melakukan analisis bisnis"
+            },
+            {
+                "url": "assets/3/5.jpg",
+                "description": "Pentingnya MOAT dalam bisnis"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Seberapa Cepat Uang Berputar dalam Bisnismu?",
+        "images": [
+            {
+                "url": "assets/4/0.jpg",
+                "description": "Seberapa cepat uang berputar dalam bisnismu?"
+            },
+            {
+                "url": "assets/4/1.jpg",
+                "description": "Siklus perputaran uang (DIO + DSO - DPO)"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Seri Rasio Keuangan",
+        "images": [
+            {
+                "url": "assets/5/0.jpg",
+                "description": "Menghitung Rasio Keuangan"
+            },
+            {
+                "url": "assets/5/1.jpg",
+                "description": "Rasio Efektivitas Manajemen"
+            },
+            {
+                "url": "assets/5/2.jpg",
+                "description": "Rasio Efisiensi"
+            },
+            {
+                "url": "assets/5/3.jpg",
+                "description": "Utang dan Rasionya"
+            },
+            {
+                "url": "assets/5/4.jpg",
+                "description": "Rasio Profitabilitas"
+            },
+            {
+                "url": "assets/5/5.jpg",
+                "description": "Rasio Likuiditas"
+            },
+            {
+                "url": "assets/5/6.jpg",
+                "description": "Rasio Valuasi"
+            },
+            {
+                "url": "assets/5/7.jpg",
+                "description": "Relasi Antar Rasio Keuangan"
+            },
+            {
+                "url": "assets/5/8.jpg",
+                "description": "Analisis Kualitas Laba Bersih"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Melihat Potensi Bisnis",
+        "images": [
+            {
+                "url": "assets/6/0.jpg",
+                "description": "Melihat Potensi Bisnis"
+            },
+            {
+                "url": "assets/6/1.jpg",
+                "description": "Mencari info tentang saham di mana?"
+            },
+            {
+                "url": "assets/6/2.jpg",
+                "description": "Business Model Canvas"
+            },
+            {
+                "url": "assets/6/3.jpg",
+                "description": "Porter's Five Forces"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Relasi Antar Laporan Keuangan",
+        "images": [
+            {
+                "url": "assets/7/0.jpg",
+                "description": "Relasi Antar Laporan Keuangan"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Analisis Arus Kas",
+        "images": [
+            {
+                "url": "assets/8/0.jpg",
+                "description": "Membaca Laporan Arus Kas"
+            },
+            {
+                "url": "assets/8/1.jpg",
+                "description": "Arus Kas dari Aktivitas Operasi"
+            },
+            {
+                "url": "assets/8/2.jpg",
+                "description": "Ketika Arus Kas sedang bagus"
+            },
+            {
+                "url": "assets/8/3.jpg",
+                "description": "Arus Kas dari Aktivitas Investasi"
+            },
+            {
+                "url": "assets/8/4.jpg",
+                "description": "Pentingnya Free Cash Flow"
+            },
+            {
+                "url": "assets/8/5.jpg",
+                "description": "Arus Kas dari Aktivitas Pendanaan"
+            },
+            {
+                "url": "assets/8/6.jpg",
+                "description": "Arus Kas untuk Ekspansi"
+            },
+            {
+                "url": "assets/8/7.jpg",
+                "description": "Aliran Kas Dalam Bisnis"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Membedah Neraca",
+        "images": [
+            {
+                "url": "assets/9/0.jpg",
+                "description": "Arti dari angka-angka dalam neraca"
+            },
+            {
+                "url": "assets/9/1.jpg",
+                "description": "Apa saja yang perlu diperhatikan saat membaca bagian aset?"
+            },
+            {
+                "url": "assets/9/2.jpg",
+                "description": "Analisis kemampuan perusahaan untuk memeuhi liabilitas jangka pendek tanpa penandaan eksternal"
+            },
+            {
+                "url": "assets/9/3.jpg",
+                "description": "Apa saja yang perlu diperhatikan saat membaca bagian liabilitas?"
+            },
+            {
+                "url": "assets/9/4.jpg",
+                "description": "Utang jika dikelola dengan baik akan mendorong pertumbuhan bisnis namun akan menjadi bumerang jika terlalu agresif"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Analisis Laporan Laba Rugi",
+        "images": [
+            {
+                "url": "assets/10/0.jpg",
+                "description": "Membedah Laporan Laba Rugi"
+            },
+            {
+                "url": "assets/10/1.jpg",
+                "description": "Membedah Angka Penjualan"
+            },
+            {
+                "url": "assets/10/2.jpg",
+                "description": "Beban Pokok Penjualan (BPP)"
+            },
+            {
+                "url": "assets/10/3.jpg",
+                "description": "Beban Usaha"
+            },
+            {
+                "url": "assets/10/4.jpg",
+                "description": "Cara Menghitung Earnings Predictability"
+            },
+            {
+                "url": "assets/10/5.jpg",
+                "description": "Analisis Kualitas Laba Bersih"
+            },
+            {
+                "url": "assets/10/7.jpg",
+                "description": "Analisis Tren Laba Kuartalan"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Financial Analysis Series - Updated",
+        "images": [
+            {
+                "url": "assets/11/0.jpg",
+                "description": "Analisis Keuangan Perusahaan"
+            },
+            {
+                "url": "assets/11/1.jpg",
+                "description": "Membedah Neraca"
+            },
+            {
+                "url": "assets/11/2.jpg",
+                "description": "Membedah Laporan Laba Rugi"
+            },
+            {
+                "url": "assets/11/3.jpg",
+                "description": "Menghitung EBT, EBIT, EBITDA"
+            },
+            {
+                "url": "assets/11/4.jpg",
+                "description": "Memahami Cash Flow"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Mengapa Bisnis bisa Bertahan Lama?",
+        "images": [
+            {
+                "url": "assets/12/0.jpg",
+                "description": "Mengapa Bisnis bisa Bertahan Lama?"
+            },
+            {
+                "url": "assets/12/1.jpg",
+                "description": "Bisnis yang terus tumbuh"
+            },
+            {
+                "url": "assets/12/2.jpg",
+                "description": "Memahami Komunikasi Manajemen"
+            },
+            {
+                "url": "assets/12/3.jpg",
+                "description": "Pentingnya MOAT dalam bisnis"
+            },
+            {
+                "url": "assets/12/4.jpg",
+                "description": "Mengapa ROE bisa bagus?"
+            },
+            {
+                "url": "assets/12/5.jpg",
+                "description": "Bisnis dengan Niche yang tepat"
+            },
+            {
+                "url": "assets/12/7.jpg",
+                "description": "Analisis utang perusahaan"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Zero to One",
+        "images": [
+            {
+                "url": "assets/13/0.jpg",
+                "description": "Bagaimana cara membangun masa depan?"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Laporan Keuangan Isinya Apa Saja?",
+        "images": [
+            {
+                "url": "assets/14/0.jpg",
+                "description": "Laporan Keuangan Isinya Apa Saja?"
+            },
+            {
+                "url": "assets/14/1.jpg",
+                "description": "Relasi Antar Laporan Keuangan"
+            },
+            {
+                "url": "assets/14/2.jpg",
+                "description": "Investasi Saham dalam Ilustrasi"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Net Income VS Operating CF",
+        "images": [
+            {
+                "url": "assets/15/0.jpg",
+                "description": "Net Income VS Operating CF"
+            },
+            {
+                "url": "assets/15/1.jpg",
+                "description": "Operating Cash Flow dan Net Income bisa sangat berbeda jika perusahaan membutuhkan aset tetap yang besar dalam operasionalnya"
+            },
+            {
+                "url": "assets/15/2.jpg",
+                "description": "Income Statement VS Cash Flow Statement"
+            },
+            {
+                "url": "assets/15/3.jpg",
+                "description": "Accrual VS Cash Basis"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Membaca Catatan Atas Laporan Keuangan (CALK)",
+        "images": [
+            {
+                "url": "assets/16/0.jpg",
+                "description": "Membaca Catatan Atas Laporan Keuangan (CALK)"
+            },
+            {
+                "url": "assets/16/1.jpg",
+                "description": "Kebijakan akuntasi penting"
+            },
+            {
+                "url": "assets/16/2.jpg",
+                "description": "Rincian piutang dan utang usaha"
+            },
+            {
+                "url": "assets/16/3.jpg",
+                "description": "Biaya penyusutan (depresiasi)"
+            },
+            {
+                "url": "assets/16/4.jpg",
+                "description": "Rincian utang"
+            },
+            {
+                "url": "assets/16/5.jpg",
+                "description": "Rincian modal saham perusahaan"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "(Expanded) Accounting Equation",
+        "images": [
+            {
+                "url": "assets/17/0.jpg",
+                "description": "Penjabaran persamaan akuntansi (Accounting Equation) untuk mengetahui apa yang mendorong kenaikan ekuitas dan aset"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Cash Flow Statement Analysis Series",
+        "images": [
+            {
+                "url": "assets/18/0.jpg",
+                "description": "Membaca Laporan Arus Kas"
+            },
+            {
+                "url": "assets/18/1.jpg",
+                "description": "CF From Operating Activities"
+            },
+            {
+                "url": "assets/18/2.jpg",
+                "description": "Ketika Cash Flow sedang bagus"
+            },
+            {
+                "url": "assets/18/3.jpg",
+                "description": "CF From Investing Activities"
+            },
+            {
+                "url": "assets/18/4.jpg",
+                "description": "Pentingnya Free Cash Flow"
+            },
+            {
+                "url": "assets/18/5.jpg",
+                "description": "CF From Financing Activities"
+            },
+            {
+                "url": "assets/18/6.jpg",
+                "description": "Cash Flow dalam Ekspansi"
+            },
+            {
+                "url": "assets/18/7.jpg",
+                "description": "Money Flow dalam Bisnis"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Income Statement Analysis Series",
+        "images": [
+            {
+                "url": "assets/19/0.jpg",
+                "description": "Membedah Laporan Laba Rugi"
+            },
+            {
+                "url": "assets/19/1.jpg",
+                "description": "Membedah Angka Penjualan"
+            },
+            {
+                "url": "assets/19/2.jpg",
+                "description": "Cost of Goods Sold (COGS)"
+            },
+            {
+                "url": "assets/19/3.jpg",
+                "description": "Operating Costs"
+            },
+            {
+                "url": "assets/19/4.jpg",
+                "description": "Cara Menghitung Earnings Predictability"
+            },
+            {
+                "url": "assets/19/5.jpg",
+                "description": "Analisis Kualitas Laba Bersih"
+            },
+            {
+                "url": "assets/19/6.jpg",
+                "description": "Analisis Tren Laba Kuartalan"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Seberapa Cepat Uang Berputar dalam Bisnis?",
+        "images": [
+            {
+                "url": "assets/20/0.jpg",
+                "description": "Seberapa Cepat Uang Berputar dalam Bisnis?"
+            },
+            {
+                "url": "assets/20/1.jpg",
+                "description": "Siklus perputaran uang (DIO + DSO - DPO)"
+            },
+            {
+                "url": "assets/20/2.jpg",
+                "description": "Perputaran Uang yang lebih cepat akan membuat penggunaan modal kerja lebih efisien"
+            },
+            {
+                "url": "assets/20/3.jpg",
+                "description": "Apa yang bisa dilakukan untuk mempercepat siklus perputaran uang dalam bisnis?"
+            }
+        ],
+        "content": "",
+        "description": ""
+    },
+    {
+        "title": "Balance Sheet Analysis Series",
+        "images": [
+            {
+                "url": "assets/21/0.jpg",
+                "description": "Membedah Neraca"
+            },
+            {
+                "url": "assets/21/1.jpg",
+                "description": "Assets Analysis"
+            },
+            {
+                "url": "assets/21/2.jpg",
+                "description": "Liquidity Ratios"
+            }
+        ],
+        "content": "",
+        "description": ""
+    }
+]
