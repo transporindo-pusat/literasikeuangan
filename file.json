@@ -553,5 +553,24 @@
         ],
         "content": "",
         "description": ""
+    },
+    {
+        "title": "Operating Cash Flow",
+        "images": [
+            {
+                "url": "assets/22/0.jpg",
+                "description": "Operating Cash Flow"
+            },
+            {
+                "url": "assets/22/1.jpg",
+                "description": "Memahami Cash Flow"
+            },
+            {
+                "url": "assets/22/2.jpg",
+                "description": "Seberapa Cepat Uang Berputar dalam Bisnis?"
+            }
+        ],
+        "content": "",
+        "description": ""
     }
 ]
